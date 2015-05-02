@@ -1,0 +1,6 @@
+Key-Type: RSA
+Key-Length: 2048
+Preferences: SHA256
+Name-Real: Daniel Hokka Zakrisson
+Name-Comment: DLOP Test key
+%commit
